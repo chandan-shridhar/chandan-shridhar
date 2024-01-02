@@ -1,0 +1,10 @@
+
+
+restarting node.js server
+--------------------------
+node index.js
+
+starting http-server
+----------------------
+http-server
+
