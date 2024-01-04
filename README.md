@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chandan-shridhar
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning kubernetes
+- 🌱 I’m firm beliver that nothing is impossible
 - 💞️ I’m looking to collaborate on open projects
 - 📫 How to reach me ...
 
